@@ -1,13 +1,13 @@
-# Hangman-Game-using-Python
 
-In the above code, the program  first takes  a string user input, then it uses the split() function in Python for splitting the sentence. Then  a new variable ‘a’ is declared  to store the acronym of a phrase.
+
+This is a short code in java,written in Eclipse IDE. By using this code,one can open Notepad and type anything in it.
 
 <img src="data/Screenshot 1april.png" height="240" >
 
 ## Requirements
-* VS Code
-* Python
+* Eclipse IDE
+* Java
 
 ## Code 
 
-* [Code](code/main.py)
+* [Code](code/OpenNotepad.java)
